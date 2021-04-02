@@ -2,4 +2,6 @@
 
 ### Olá! Seja bem vindo ao meu livro de receitas, livro baseado nas antigas receitas da vovó. :wave:
 
-- Strogonnof de frango
+- Strogonof de frango
+- Strogonof de carne
+- Lasanha de presunto
